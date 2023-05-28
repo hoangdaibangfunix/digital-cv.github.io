@@ -1,0 +1,48 @@
+.container {
+  background-color: #0000ff;
+}
+
+.goals,
+.team,
+.time-line,
+.scopes,
+.primary {
+  background-color: #f0f8ff;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 23px;
+
+  box-sizing: border-box;
+  padding-top: 12px;
+  height: 50px;
+
+  border-bottom: 1px #f0f0f0 solid;
+}
+
+.goal,
+.member {
+  border-bottom: 1px #f0f0f0 solid;
+}
+
+.project {
+  border-bottom: 1px darkcyan dashed;
+}
+
+.small-title {
+  font-weight: bold;
+}
+
+.project .order {
+  font-size: 23px;
+  color: #f0f0f0;
+
+  width: 40px;
+  height: 40px;
+  padding: 3px;
+  margin-left: 20px;
+  background-color: #9e88ff;
+  border: 1px #7f7c81 solid;
+  border-radius: 50%;
+}
